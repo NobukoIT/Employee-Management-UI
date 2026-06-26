@@ -1,30 +1,19 @@
-# Employee-Management-UI
+# Employee Management System UI
 
-This project is a UI design for an Employee Management System created in Figma.
-The goal was to design a clean, easy-to-use interface for HR staff to search, manage, and view employee information.
 
-## Features
+![画像の説明](<images/社員管理システムUI2026-06-24 210240.png>)
 
-- Employee search
-- Employee list
-- Employee details
-- Responsive mobile layout
-- Simple navigation
 
-- ## Screenshots
 
-### Dashboard
 
-(画像)
 
-### Employee List
+## Main Features
 
-(画像)
+- Employee List
+- Search
+- Employee Details
+- Responsive Mobile Design
 
-### Employee Details
+## Prototype
 
-(画像)
-
-### Mobile
-
-(画像)
+Figmaリンク
